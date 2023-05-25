@@ -50,6 +50,7 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 This project is licensed under the [MIT License](LICENSE).
 
+
 ## Contact
 
 For any questions or inquiries, please contact us at [pranavaditya21@gmail.com](mailto:pranavaditya21@gmail.com).
