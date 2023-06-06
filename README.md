@@ -28,7 +28,7 @@ git clone https://github.com/your-username/color-detection.git
 
 8. Build and run the project in your development environment.
 
-9. The webcam will activate, and the program will detect objects of the specified color in real-time from the video stream.
+9. Allow the permissions to webcam as the webcam will activate, and the program will detect objects of the specified color in real-time from the video stream.
 
 ## Applications
 
