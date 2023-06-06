@@ -14,7 +14,7 @@ while True:
     ret, frame = cap.read()
 
     # Convert the frame to the HSV color space
-    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV) 
 
     # Define ranges for different colors
     lower_red = np.array([0, 50, 50])
