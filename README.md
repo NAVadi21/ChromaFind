@@ -18,7 +18,7 @@ git clone https://github.com/your-username/color-detection.git
 
 3. Install the required dependencies, including OpenCV. Refer to the project's documentation for detailed instructions on setting up the environment.
 
-4. Connect a webcam to your computer.
+4. Connect a webcam to your computer, if there is no default webcam in your device.
 
 5. Open the source code file and locate the `lower_` and `upper_` arrays.
 
