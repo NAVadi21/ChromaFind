@@ -25,7 +25,7 @@ while True:
     upper_blue = np.array([140, 255, 255])
     lower_yellow = np.array([20, 50, 50])
     upper_yellow = np.array([30, 255, 255])
-
+ 
     # Threshold the image to get only the desired colors 
     red_mask = cv2.inRange(hsv, lower_red, upper_red)
     green_mask = cv2.inRange(hsv, lower_green, upper_green)
