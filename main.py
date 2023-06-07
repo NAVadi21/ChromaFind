@@ -12,7 +12,7 @@ cap.set(cv2.CAP_PROP_FPS, 60)
 while True:
     # Read a video frame
     ret, frame = cap.read()
-
+ 
     # Convert the frame to the HSV color space
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV) 
 
